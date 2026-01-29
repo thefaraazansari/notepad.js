@@ -12,7 +12,7 @@
 
 No installation needed – it's 100% online!
 
-Try it out here 👉 [Notepad by Faraaz Ansari](https://thefaraazansari.github.io/notepad/)
+Try it out here 👉 [Notepad by Faraaz Ansari](https://thefaraazansari.github.io/notepad.js/)
 
 ## 📸 Screenshot
 
