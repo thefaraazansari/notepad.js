@@ -1,4 +1,4 @@
-# 📝 Notepad.js
+# 📝 notepad.js
 
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue)
@@ -6,7 +6,7 @@
 ![Repo Size](https://img.shields.io/github/repo-size/thefaraazansari/notepad.js)
 ![Last Commit](https://img.shields.io/github/last-commit/thefaraazansari/notepad.js)
 
-**Notepad.js** is a sleek, browser-based notepad that lets you write, save, and edit notes instantly — with a clean, distraction-free interface 🪶. No login, no servers, and complete privacy: your notes stay local in your browser.
+**notepad.js** is a sleek, browser-based notepad that lets you write, save, and edit notes instantly — with a clean, distraction-free interface 🪶. No login, no servers, and complete privacy: your notes stay local in your browser.
 
 ## 🚀 Live Demo
 
